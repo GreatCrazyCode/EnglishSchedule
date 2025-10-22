@@ -1,4 +1,5 @@
 
+# TOPIC AND QUESTIONS FOR TODAY'S SESSION
 # 口语练习: Day 3 - Day 4
 
 ## 练习主题: 处理问题与给予表扬 (Handling Problems and Giving Praise)
