@@ -1,0 +1,12 @@
+
+# Dependencies
+/node_modules
+/html-parser
+
+# IDE specific
+.vscode
+.idea
+
+# OS specific
+.DS_Store
+Thumbs.db
