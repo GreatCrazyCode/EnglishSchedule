@@ -1,7 +1,7 @@
 
 # Dependencies
-/node_modules
-/html-parser
+
+/*/node_modules
 
 # IDE specific
 .vscode
