@@ -13,7 +13,7 @@ After Denise's sacking, Anna and Tom are worried that they might be next in the 
 
 - I have a specific idea in mind.
 - I'm interested in hearing your thoughts on how to improve my idea.
-- I'd like to use your design skills to produce a fantastic product.
+- I'd like to use your design skills to produce a fantastic product.++
 - I need to sign off your designs before they go into production.
 
 ## Listening Challenge
